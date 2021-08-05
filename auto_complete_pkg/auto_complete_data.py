@@ -14,5 +14,3 @@ class AutoCompleteData:
     def get_data(self):
         return (self.completed_sentence) ,( self.source_text ,  self.line, self.offset), self.score
 
-    # def __str__(self):
-    #     return self.completed_sentence + "(" + self.source_text + self.offset + ")"
