@@ -14,7 +14,7 @@ with some more relevant information (like file, line offset etc.).
   trie and then waits for user input.
   When it
 gets an input it will search until it gets five matches. 
-  if there are less then five it will try  different variations 
+  if there are less than five it will try  different variations 
   of the search text completions 
   with one letter missed\replaced\added.
   
@@ -30,7 +30,8 @@ change made on the input.
 
 run the main.py file
 
-first to initiliztion the data add to configuration  - ***initialization***
+first edit the mode to ***initialization*** by sending it through the argv parameters.
 
-after that change to - ***query*** for all search.
+after that change the mode to - ***query*** for all searches.
+
 
