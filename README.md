@@ -1,6 +1,6 @@
 # Google Project - Search auto complete
 
-**Description** 
+## Description
 
 ***The goal of the project was :***
 Search and auto-complete sentences within given input text files, 
