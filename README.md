@@ -1,5 +1,4 @@
-#Google Project - Search auto complete
-##By Pliah Paz and Goldie Lemberger
+# Google Project - Search auto complete
 
 **Description** 
 
